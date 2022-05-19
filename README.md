@@ -14,4 +14,4 @@
  
  ### The header of the webpage 
  
- 
+ ![Refactored Code Results for 2017](Resources/ResultsFor2017StocksRefactored.PNG)
