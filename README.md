@@ -18,3 +18,7 @@
     
  ![data-table](https://github.com/TahaniSury/UFOs/blob/main/static/images/data-table.png)
  
+ ### How the data is displayed after applying the filter 
+ 
+ ![filter-pic](
+ 
