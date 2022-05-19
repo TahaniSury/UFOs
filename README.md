@@ -20,5 +20,7 @@
  
  ### How the data is displayed after applying the filter 
  
- ![filter-pic](
+ ![filter-pic](https://github.com/TahaniSury/UFOs/blob/main/static/images/filter-pic.png)
+ 
+ 
  
