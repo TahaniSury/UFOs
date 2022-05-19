@@ -25,8 +25,10 @@
  
  ## Summary:
  
- . drawback:
+ ### drawback:
+ 
   I noticed the when searched word (FRESNO)instead of (fresno) it did not show up that is mean it's a case sensitive 
   
- . additional recommendations for further developmen:
+ ### additional recommendations for further developmen:
+ 
  . I think it's better to put a button to click for example (search button ) is more clear to use than just write the word and hit enter 
