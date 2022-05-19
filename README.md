@@ -15,5 +15,6 @@
  ![head-pic](https://github.com/TahaniSury/UFOs/blob/main/static/images/head-pic.png)
  
  ### How the data is displayed in the website without any filter 
- 
+    
+ ![data-table](https://github.com/TahaniSury/UFOs/blob/main/static/images/data-table.png)
  
