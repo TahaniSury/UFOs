@@ -23,4 +23,10 @@
  ![filter-pic](https://github.com/TahaniSury/UFOs/blob/main/static/images/filter-pic.png)
  
  
+ ## Summary:
+ 
+ . drawback:
+  I noticed the when I put in the search button word (FRESNO)instead of (fresno) it did not show up that is mean it's a case sensitive 
+  
+  
  
