@@ -12,4 +12,8 @@
  
  ### The header of the webpage 
  
- ![head-pic](https://github.com/TahaniSury/UFOs/blob/main/static/images/head-pic.png))
+ ![head-pic](https://github.com/TahaniSury/UFOs/blob/main/static/images/head-pic.png)
+ 
+ ### How the data is displayed in the website without any filter 
+ 
+ 
